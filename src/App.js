@@ -1,7 +1,8 @@
 import React from 'react';
+import Game from './Components/Game';
 
 const App = () => {
-    return <div> This was made from Scratch! Also Hello World</div>
+    return <Game />
 }
 
 export default App;
