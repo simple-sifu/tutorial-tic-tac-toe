@@ -1,0 +1,13 @@
+.game {
+    display: flex;
+}
+
+.game-info {
+    margin: 20px;
+}
+
+ol button {
+    font-size: 15px;
+    height: 30px;
+    width: 150px;
+}
