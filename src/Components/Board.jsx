@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Square from './Square'
-import "./Board.styles.css"
 
 class Board extends Component {
 
